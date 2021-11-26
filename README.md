@@ -11,7 +11,7 @@
 ### Sobre mim
 <div style="display: inline_block">
 <p> - 👨‍💻 Desenvolvedor front-end. </p>
-<p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 1° semestre. </p>
+<p> - 👨‍🎓 Estudante de React.JS, atualmente fazendo um bootcamp na Rocketseat. </p>
 <p> - 🎯 Interesse: ReactJS, Next, HTML, CSS, JavaScript, Styled-Components. </p>
 <p> - 🎮 Gosta de jogar CS:GO? É só chamar, vamos subir de patente juntos ou não kkkk </p>
 </div>
