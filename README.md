@@ -1,12 +1,3 @@
-### `</gabrielgws>`
-
-<div align="center">
-  <a href="https://github.com/gabrielgws">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgws&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
 ## Hi, I'm Gabriel Willian! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### About me
@@ -17,6 +8,8 @@
 <p> - 🎯 Interested in scalable web solutions, product quality, performance, and projects that create real business impact. </p>
 <p> - 🎓 Computer Science student, continuously improving my skills in software architecture and best development practices. </p>
 </div>
+
+##
 
 ## My skills :nerd_face:  
 <div style="display: inline_block"><br>
@@ -49,6 +42,22 @@
   <a href="https://www.linkedin.com/in/gabrielgws/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gabrielgws.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5531994974032?text=Hi%20Gabriel%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+</div>
 
-  ![Snake animation](https://github.com/gabrielgws/gabrielgws/blob/output/github-contribution-grid-snake.svg)
+##
+
+## GitHub Stats
+<div align="center">
+  <a href="https://github.com/gabrielgws">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgws&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gabrielgws/count.svg" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/gabrielgws/gabrielgws/blob/output/github-contribution-grid-snake.svg" />
 </div>
