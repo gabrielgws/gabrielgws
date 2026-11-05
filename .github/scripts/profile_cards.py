@@ -165,16 +165,16 @@ def summarize(head, years, colls, repos):
 def card_stats(s):
     w, h = 632, 320
     b = [panel(w, h), text("Números no GitHub", 32, 52, 26, WHITE, 600)]
-    rows = [("Commits", s["commits"]), ("Pull requests", s["prs"]), ("Issues", s["issues"]),
-            ("Repositórios", s["repos"]), ("Estrelas", s["stars"])]
+    rows = [("Commits", s["commits"]), ("Contribuições privadas", s["private"]), ("Pull requests", s["prs"]),
+            ("Issues", s["issues"]), ("Repositórios", s["repos"])]
     for i, (label, v) in enumerate(rows):
         y = 104 + i * 42
         b.append(text(label, 32, y, 20, G200))
         b.append(text(ptbr(v), w - 32, y, 22, WHITE, 600, "end"))
         if i < len(rows) - 1:
             b.append(f'<path d="M32 {y+15}H{w-32}" stroke="{C300}" stroke-opacity=".12"/>')
-    save("stats.svg", w, h, f"Commits {s['commits']}, pull requests {s['prs']}, issues {s['issues']}, "
-                            f"repositórios {s['repos']}, estrelas {s['stars']}", "".join(b))
+    save("stats.svg", w, h, f"Commits {s['commits']}, contribuições privadas {s['private']}, pull requests {s['prs']}, "
+                            f"issues {s['issues']}, repositórios {s['repos']}", "".join(b))
 
 
 def card_langs(s):
@@ -242,11 +242,11 @@ def rank(v, limits):
 
 def card_trophies(s):
     w, h = 1280, 216
-    items = [("Commits", s["commits"], (100, 500, 1000, 5000)), ("Contribuições", s["total"], (200, 1000, 3000, 8000)),
-             ("Pull requests", s["prs"], (10, 50, 100, 500)), ("Repositórios", s["repos"], (5, 20, 50, 100)),
-             ("Estrelas", s["stars"], (1, 10, 50, 200)), ("Anos ativo", s["years"], (1, 3, 5, 8))]
+    items = [("Contribuições", s["total"], (200, 1000, 3000, 8000)), ("Pull requests", s["prs"], (10, 50, 100, 500)),
+             ("Repositórios", s["repos"], (5, 20, 50, 100)), ("Sequência", s["longest"], (3, 7, 14, 30)),
+             ("Anos ativo", s["years"], (1, 3, 5, 8))]
     b = [panel(w, h)]
-    cell = (w - 40) / 6
+    cell = (w - 40) / len(items)
     for i, (label, v, lim) in enumerate(items):
         cx = 20 + cell * i + cell / 2
         r = rank(v, lim)
