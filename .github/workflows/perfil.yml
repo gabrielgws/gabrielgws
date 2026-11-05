@@ -6,14 +6,10 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/cobrinha.yml", ".github/scripts/**"]
+    paths: [".github/workflows/perfil.yml", ".github/scripts/**"]
 
 permissions:
   contents: write
-
-concurrency:
-  group: snake
-  cancel-in-progress: true
 
 jobs:
   generate:
