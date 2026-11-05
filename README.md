@@ -1,65 +1,77 @@
-## Hi, I'm Gabriel Willian! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### About me
-<div style="display: inline_block">
-<p> - 👨‍💻 Full Stack Developer focused on building web applications, custom websites, and digital solutions. </p>
-<p> - 🚀 Hands-on experience with PHP, Laravel, JavaScript, React Native, WordPress, and modern web development. </p>
-<p> - 🛠️ Background in frontend and backend development, bug fixing, API integrations, maintenance routines, and continuous improvements. </p>
-<p> - 🎯 Interested in scalable web solutions, product quality, performance, and projects that create real business impact. </p>
-<p> - 🎓 Computer Science student, continuously improving my skills in software architecture and best development practices. </p>
-</div>
-
-##
-
-## My skills :nerd_face:  
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /></td>
-  </tr>
-</table>
-
-##
-
-### Professional highlights
-<div style="display: inline_block">
-<p> - 💼 Currently working on website development and maintenance, delivering updates, bug fixes, and improvements for production projects. </p>
-<p> - ⚙️ Experience building and maintaining web solutions with PHP and Laravel, focusing on reliable and scalable applications. </p>
-<p> - 🌐 Developed WordPress-based projects such as institutional websites, landing pages, blogs, and e-commerce solutions. </p>
-<p> - 🔌 Familiar with third-party API integrations, responsive interfaces, performance optimization, and technical troubleshooting. </p>
-</div>
-
-##
-
-## Contact me :iphone:  
-<div> 
-  <a href="https://www.linkedin.com/in/gabrielgws/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gabrielgws.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5531994974032?text=Hi%20Gabriel%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
-## GitHub Stats
 <div align="center">
-  <a href="https://github.com/gabrielgws">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgws&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
+
+<img src="./assets/banner.svg" width="100%" alt="Gabriel Willian de Souza, Full Stack Developer: PHP, Laravel, React Native, WordPress e Web Solutions" />
+
+<br /><br />
+
+<a href="https://github.com/gabrielgws"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=1000&color=0891B2&center=true&vCenter=true&width=760&height=44&lines=Full+Stack+Developer;PHP%2C+Laravel+e+React+Native;WordPress+%26+Web+Solutions;Projetos+novos+em+TypeScript+e+Fastify" alt="Full Stack Developer. PHP, Laravel e React Native. WordPress e Web Solutions. Projetos novos em TypeScript e Fastify." /></a>
+
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gabrielgws/count.svg" />
-</div>
+## Sobre mim
 
-<div align="center">
-  <img src="https://github.com/gabrielgws/gabrielgws/blob/output/github-contribution-grid-snake.svg" />
-</div>
+Comecei em 2014 no suporte de TI e, em 2022, passei para o desenvolvimento, criando sites em WordPress como autônomo. Depois vieram Laravel, Angular e React.
+
+Hoje sou Desenvolvedor Web na AGT Online, onde cuido de sites em produção: melhorias, correções, backups e rotinas de segurança. Nos projetos novos da Elege Softhouse, trabalho com TypeScript de ponta a ponta, com Fastify, PostgreSQL e Next.js.
+
+Meu foco está em PHP/Laravel, WordPress e aplicações web escaláveis. Moro em Minas Gerais e curso Ciência da Computação na Descomplica.
+
+## Tecnologias
+
+<img src="./assets/stack.svg" width="100%" alt="Base: PHP, Laravel, JavaScript, React Native, WordPress. Back-end: TypeScript, Fastify, Node.js. Dados: PostgreSQL, Prisma, Drizzle. Auth: JWT, RBAC. Serviços: Stripe, Resend. Observabilidade: Tracing, Logging. Front-end: TypeScript, React, Next.js, React Query, React Hook Form. Deploy: VPS Hostinger, Docker, IaC." />
+
+## Projetos
+
+<p align="center">
+  <a href="https://elegegroup.com/"><img src="./assets/cards/elege-group.svg" width="49%" alt="Elege Group, site e sistema" /></a>
+  <a href="https://rodriguesoliveiraadv.com.br/"><img src="./assets/cards/rodrigues-oliveira.svg" width="49%" alt="Rodrigues Oliveira Advogados, site e sistema" /></a>
+  <a href="https://axiomatax.com.br/"><img src="./assets/cards/axioma-tax.svg" width="49%" alt="Axioma Tax, site e sistema" /></a>
+  <a href="https://hub2000.com.br/"><img src="./assets/cards/hub2000.svg" width="49%" alt="HUB2000, site" /></a>
+  <a href="https://sggroup.com.br/"><img src="./assets/cards/sg-group.svg" width="49%" alt="SG Group, site" /></a>
+  <a href="https://psijeremias.com/"><img src="./assets/cards/psi-jeremias.svg" width="49%" alt="Psi Jeremias, site" /></a>
+  <a href="https://motoara.com.br/"><img src="./assets/cards/motoara.svg" width="49%" alt="Motoara, site" /></a>
+  <a href="https://restaurarrelacionamentos.com.br/"><img src="./assets/cards/restaurar-relacionamentos.svg" width="49%" alt="Restaurar Relacionamentos, site" /></a>
+</p>
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgws&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&card_width=480&border_radius=14&bg_color=083344&title_color=67E8F9&text_color=E5E7EB&icon_color=22D3EE&border_color=155E75" width="49%" alt="Estatísticas do GitHub de Gabriel Willian" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgws&layout=compact&langs_count=8&locale=pt-br&card_width=480&border_radius=14&bg_color=083344&title_color=67E8F9&text_color=E5E7EB&border_color=155E75" width="49%" alt="Linguagens mais usadas por Gabriel Willian" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielgws&locale=pt_BR&border_radius=14&background=083344&border=155E75&stroke=155E75&ring=22D3EE&fire=67E8F9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=A5F3FC" width="100%" alt="Sequência de contribuições de Gabriel Willian" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgws&bg_color=083344&color=E5E7EB&line=22D3EE&point=FFFFFF&area=true&area_color=0891B2&title_color=67E8F9&hide_border=true&radius=14&custom_title=Atividade%20nos%20últimos%2031%20dias" width="100%" alt="Gráfico de atividade de Gabriel Willian" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=gabrielgws&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=12" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gabrielgws&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=12" width="100%" alt="Troféus do GitHub de Gabriel Willian" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielgws/gabrielgws/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/gabrielgws/gabrielgws/output/github-snake.svg" width="100%" alt="Cobra percorrendo o gráfico de contribuições de Gabriel Willian" />
+  </picture>
+</p>
+
+## Redes sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielgws/"><img src="https://img.shields.io/badge/LinkedIn-gabrielgws-083344?style=flat-square&logo=linkedin&logoColor=white&labelColor=155E75" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:gabrielgws.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-gabrielgws.dev%40gmail.com-083344?style=flat-square&logo=gmail&logoColor=white&labelColor=155E75" height="32" alt="E-mail" /></a>
+  <a href="https://wa.me/5531994974032?text=Hi%20Gabriel%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect."><img src="https://img.shields.io/badge/WhatsApp-Conversar-083344?style=flat-square&logo=whatsapp&logoColor=white&labelColor=155E75" height="32" alt="WhatsApp" /></a>
+  <a href="https://www.gabrielgws.com/"><img src="https://img.shields.io/badge/Portfólio-gabrielgws.com-083344?style=flat-square&logo=googlechrome&logoColor=white&labelColor=155E75" height="32" alt="Portfólio" /></a>
+  <a href="https://github.com/gabrielgws"><img src="https://img.shields.io/badge/GitHub-gabrielgws-083344?style=flat-square&logo=github&logoColor=white&labelColor=155E75" height="32" alt="GitHub" /></a>
+</p>
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="200 OK. Fim do trace. Se chegou até aqui, me chama no LinkedIn." />
