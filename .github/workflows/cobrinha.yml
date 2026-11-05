@@ -1,4 +1,4 @@
-name: Snake
+name: Perfil
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/cobrinha.yml"]
+    paths: [".github/workflows/cobrinha.yml", ".github/scripts/**"]
 
 permissions:
   contents: write
@@ -20,6 +20,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar os cards
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+        run: |
+          pip install --quiet fonttools brotli
+          python3 .github/scripts/profile_cards.py cards
+
       - name: Gerar a cobra
         uses: Platane/snk@v3
         with:
@@ -34,11 +43,11 @@ jobs:
         run: |
           publish="$RUNNER_TEMP/snake"
           mkdir -p "$publish"
-          cp dist/*.svg "$publish/"
+          cp dist/*.svg cards/*.svg "$publish/"
           cd "$publish"
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -q -m "chore: atualiza a cobra"
+          git commit -q -m "chore: atualiza cobra e cards"
           git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
