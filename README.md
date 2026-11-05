@@ -36,23 +36,20 @@ Meu foco está em PHP/Laravel, WordPress e aplicações web escaláveis. Moro em
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgws&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&card_width=480&border_radius=14&bg_color=083344&title_color=67E8F9&text_color=E5E7EB&icon_color=22D3EE&border_color=155E75" width="49%" alt="Estatísticas do GitHub de Gabriel Willian" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgws&layout=compact&langs_count=8&locale=pt-br&card_width=480&border_radius=14&bg_color=083344&title_color=67E8F9&text_color=E5E7EB&border_color=155E75" width="49%" alt="Linguagens mais usadas por Gabriel Willian" />
+  <img src="https://raw.githubusercontent.com/gabrielgws/gabrielgws/output/stats.svg" width="49%" alt="Estatísticas do GitHub de Gabriel Willian" />
+  <img src="https://raw.githubusercontent.com/gabrielgws/gabrielgws/output/langs.svg" width="49%" alt="Linguagens mais usadas por Gabriel Willian" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielgws&locale=pt_BR&border_radius=14&background=083344&border=155E75&stroke=155E75&ring=22D3EE&fire=67E8F9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=A5F3FC" width="100%" alt="Sequência de contribuições de Gabriel Willian" />
+  <img src="https://raw.githubusercontent.com/gabrielgws/gabrielgws/output/streak.svg" width="99%" alt="Sequência de contribuições de Gabriel Willian" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgws&bg_color=083344&color=E5E7EB&line=22D3EE&point=FFFFFF&area=true&area_color=0891B2&title_color=67E8F9&hide_border=true&radius=14&custom_title=Atividade%20nos%20últimos%2031%20dias" width="100%" alt="Gráfico de atividade de Gabriel Willian" />
+  <img src="https://raw.githubusercontent.com/gabrielgws/gabrielgws/output/activity.svg" width="99%" alt="Atividade de Gabriel Willian nos últimos 31 dias" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=gabrielgws&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=12" />
-    <img src="https://github-profile-trophy.vercel.app/?username=gabrielgws&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=12" width="100%" alt="Troféus do GitHub de Gabriel Willian" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/gabrielgws/gabrielgws/output/trophies.svg" width="99%" alt="Troféus do GitHub de Gabriel Willian" />
 </p>
 
 <p align="center">
