@@ -71,4 +71,4 @@ Meu foco está em PHP/Laravel, WordPress e aplicações web escaláveis. Moro em
 
 <br />
 
-<img src="./assets/footer.svg" width="100%" alt="200 OK. Fim do trace. Se chegou até aqui, me chama no LinkedIn." />
+<a href="https://www.linkedin.com/in/gabrielgws/"><img src="./assets/footer.svg" width="100%" alt="200 OK. Fim do trace. Se chegou até aqui, me chama no LinkedIn." /></a>
